@@ -1,0 +1,14 @@
+body {
+  background-image: url('../assets/bck.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #ffffff;
+  height: 100vh;
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
